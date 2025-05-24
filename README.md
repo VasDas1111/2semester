@@ -4,7 +4,7 @@ https://colab.research.google.com/drive/1cwjoquGl4meyOkEMN-SsnzQMiVR7AfZA?usp=sh
 ## Работа по Python
 ✅-[Условия на примере цены товара](https://colab.research.google.com/drive/11ON6rHzbiaeYhs1gSkZgGYT5HK5xUZNr?authuser=2#scrollTo=TzZwAKwO24Fu)\
 ✅-[Задание и блоксхема](https://colab.research.google.com/drive/11ON6rHzbiaeYhs1gSkZgGYT5HK5xUZNr?authuser=2#scrollTo=JrQP65OerzzW&line=2&uniqifier=1)\
-✅-[Код](https://colab.research.google.com/drive/11ON6rHzbiaeYhs1gSkZgGYT5HK5xUZNr?authuser=2#scrollTo=eflpuq1ks0gy&line=3&uniqifier=1)\
+✅-[Код](https://colab.research.google.com/drive/11ON6rHzbiaeYhs1gSkZgGYT5HK5xUZNr?authuser=2#scrollTo=eflpuq1ks0gy&line=3&uniqifier=1)
 ## Якласс
 ✅-[Проверочная работа1]()\
 ✅-[Проверочная работа2]()\
